@@ -5,4 +5,4 @@
 3. 了解了一个常用的库，对移动端开发有一个初步的认识。可以结合Taro的多端设计思考总结一下。
 4. 未来试一下改成TS版本的
 
-官方教程：
+官方教程：https://docs.expo.dev/tutorial/introduction/
